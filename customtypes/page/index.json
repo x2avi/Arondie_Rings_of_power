@@ -20,9 +20,6 @@
             "experience": {
               "type": "SharedSlice"
             },
-            "text_block": {
-              "type": "SharedSlice"
-            },
             "image": {
               "type": "SharedSlice"
             },
